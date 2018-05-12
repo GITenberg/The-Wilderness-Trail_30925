@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   illustrator:
     agent_name: Duer, Douglas
-    birthdate: &id001 1887
+    birthdate: 1887
     deathdate: 1964
     gutenberg_agent_id: '8878'
     url: http://www.gutenberg.org/2009/agents/8878
@@ -16,10 +16,12 @@ creator:
     aliases:
     - Lawrence, Elwell
     - Williams, Frank
-    birthdate: *id001
+    birthdate: 1887
     gutenberg_agent_id: '32733'
     url: http://www.gutenberg.org/2009/agents/32733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30925#The-Wilderness-Trail
 gutenberg_issued: '2010-01-11'
 gutenberg_type: Text
 identifiers:
